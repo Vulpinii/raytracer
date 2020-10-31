@@ -46,4 +46,5 @@ make -j
 
 ## Gallery
 #### Preview
-
+<p align="center"><img src="https://github.com/Vulpinii/raytracer/blob/master/results/5.4_bubblessoftshadow_4338.png" alt="bubble" width="75%" /></p>
+<p align="center"><img src="https://github.com/Vulpinii/raytracer/blob/master/results/6.1_final_7835.png" alt="fun" width="75%" /></p>
