@@ -1,5 +1,5 @@
 <p align="center"><h1>Project Ray Tracer</h1></p>
-<p align="right">26 mai 2020</p>
+<p align="right">26/05/2020</p>
 
 Ray tracing project allowing to visualize a 3D scene and to calculate an image based on the rules of physics
 
